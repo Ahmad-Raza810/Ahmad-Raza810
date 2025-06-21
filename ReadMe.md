@@ -1,7 +1,5 @@
 # 💫 About Me:
-Hi, I’m Ahmad Raza, a BCA student and aspiring Full Stack Java Developer. I specialize in building web applications using Java, Spring Boot, and React. I’m also focused on improving my problem-solving skills through DSA and working on real-world projects.<br><br>🔧 Tech Stack:<br>Java | Spring Boot | React | REST API | MySQL | HTML | CSS | JavaScript | Git | GitHub
-
-
+Hi, I’m Ahmad Raza, a BCA student and aspiring Full Stack Java Developer. I specialize in building web applications using Java, Spring Boot, and React. I’m also focused on improving my problem-solving skills through DSA and working on real-world projects.<br><br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahhmad____77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-raza-09062a323) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Ahmad_raza77770) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafaraza03898@gmail.com) 
 
