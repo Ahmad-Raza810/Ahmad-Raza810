@@ -1,19 +1,76 @@
 # 💫 About Me:
-Hi, I’m Ahmad Raza, a BCA student and aspiring Full Stack Java Developer. I specialize in building web applications using Java, Spring Boot, and React. I’m also focused on improving my problem-solving skills through DSA and working on real-world projects.<br><br>
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahhmad____77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-raza-09062a323) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Ahmad_raza77770) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafaraza03898@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat-square&logo=babel&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ahmad-Raza810&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ahmad-Raza810&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Raza810&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ahmad-Raza810&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+Hi, I’m **Ahmad Raza** 👋  
+🚀 A **BCA student** and aspiring **Full Stack Java Developer**  
+💻 Passionate about building **Scalable Web Apps** with **Java | Spring Boot | React**  
+📚 Currently sharpening my **DSA skills** and building **real-world projects**  
+⚡ Love solving **problem statements** & exploring new **technologies**  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ahmad-Raza810&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect with Me:
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://github.com/Ahmad-Raza810)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahhmad____77) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-raza-09062a323) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Ahmad_raza77770) 
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafaraza03898@gmail.com) 
+
+---
+
+# 💻 Tech Stack:
+
+### 🚀 Programming & Development  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)  
+
+### 🌐 Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB)  
+
+### 🛠 Backend & Database  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?logo=springboot&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)  
+
+### ⚙️ Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white)  
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?logo=eclipse&logoColor=white)  
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ahmad-Raza810&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-Raza810&theme=tokyonight&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Raza810&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+
+---
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ahmad-Raza810&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+### 📈 Contribution Activity
+[![Ahmad’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmad-Raza810&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🔝 Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=Ahmad-Raza810&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+
+### 👀 Visitors Counter
+[![](https://visitcount.itsvg.in/api?id=Ahmad-Raza810&icon=5&color=6)](https://visitcount.itsvg.in)
+
+---
+
+## 🎯 Fun Section  
+🌟 Random Dev Quote:  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+ 
