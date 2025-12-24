@@ -92,34 +92,10 @@ I'm passionate about building scalable web applications and solving real-world p
   <img src="https://profile-counter.glitch.me/Ahmad-Raza810/count.svg" alt="Visitor Count"/>
 </div>
 
-**Alternative Visitor Counters** (choose one):
-
-```markdown
-<!-- Option 1: Simple Counter -->
-![Visitor Count](https://profile-counter.glitch.me/Ahmad-Raza810/count.svg)
-
-<!-- Option 2: Komarev Style -->
-![](https://komarev.com/ghpvc/?username=Ahmad-Raza810&color=blueviolet&style=flat-square)
-
-<!-- Option 3: Hits -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhmad-Raza810&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-```
-
 ---
 
-## 🎯 Random Dev Quote
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
----
-
-<div align="center">
-  
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-**Thanks for visiting my profile! Feel free to reach out for collaborations or just a chat about tech! 🚀**
+**Thanks for visiting my profile! Feel free to reach out for collaborations or just a tech chat! 🚀**
 
 ⭐️ From [Ahmad-Raza810](https://github.com/Ahmad-Raza810)
 
