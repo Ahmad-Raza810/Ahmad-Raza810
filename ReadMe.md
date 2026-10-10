@@ -90,7 +90,7 @@ Try **Catch the Dot**. Catch as many targets as you can before the 20-second tim
 
 **[▶ Play Catch the Dot](https://Ahmad-Raza810.github.io/Ahmad-Raza810/game)**
 
-> **Enable the game:** Copy the included `game/index.html` into your profile repository. In GitHub, open **Settings → Pages**, choose **Deploy from a branch**, select `main` and the `/game` folder, then save. The game URL will be `https://ahmadrazadev875-hue.github.io/ahmadrazadev875-hue/`. If the Pages setup instead publishes the repository root, move `index.html` to the root and use the root Pages URL.
+> **Enable the game:** Copy the included `game/index.html` into your profile repository. In GitHub, open **Settings → Pages**, choose **Deploy from a branch**, select `main` and the `/game` folder, then save. The game URL will be `https://Ahmad-Raza810.github.io/Ahmad-Raza810/`. If the Pages setup instead publishes the repository root, move `index.html` to the root and use the root Pages URL.
 
 ---
 
