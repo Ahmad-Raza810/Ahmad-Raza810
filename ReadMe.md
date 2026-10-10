@@ -11,7 +11,7 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer coding animation" width="420" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ahmadrazadev875-hue&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ahmad-Raza810&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 </div>
@@ -70,16 +70,16 @@ I'm a **Java Backend Developer** focused on building practical, maintainable app
 ## 📊 GitHub Overview
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmadrazadev875-hue&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://streak-stats.demolab.com?user=ahmadrazadev875-hue&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Raza810&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Ahmad-Raza810&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadrazadev875-hue&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Raza810&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadrazadev875-hue&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmad-Raza810&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
 </div>
 
 ---
@@ -88,7 +88,7 @@ I'm a **Java Backend Developer** focused on building practical, maintainable app
 
 Try **Catch the Dot**. Catch as many targets as you can before the 20-second timer runs out!
 
-**[▶ Play Catch the Dot](https://ahmadrazadev875-hue.github.io/ahmadrazadev875-hue/)**
+**[▶ Play Catch the Dot](https://Ahmad-Raza810.github.io/Ahmad-Raza810/game)**
 
 > **Enable the game:** Copy the included `game/index.html` into your profile repository. In GitHub, open **Settings → Pages**, choose **Deploy from a branch**, select `main` and the `/game` folder, then save. The game URL will be `https://ahmadrazadev875-hue.github.io/ahmadrazadev875-hue/`. If the Pages setup instead publishes the repository root, move `index.html` to the root and use the root Pages URL.
 
@@ -103,7 +103,7 @@ Try **Catch the Dot**. Catch as many targets as you can before the 20-second tim
   <a href="mailto:ahmadrazadev875@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/ahmadrazadev875-hue">
+  <a href="https://github.com/Ahmad-Raza810">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
