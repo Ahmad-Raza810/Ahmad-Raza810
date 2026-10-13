@@ -12,6 +12,9 @@
 
    ![Profile views](https://komarev.com/ghpvc/?username=Ahmad-Raza810&label=Profile%20views&color=0e75b6&style=flat)
 
+
+   ![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat)
+
 </div>
 
 ---
