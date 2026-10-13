@@ -10,9 +10,7 @@
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer coding animation" width="420" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Ahmad-Raza810&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+   ![Profile views](https://komarev.com/ghpvc/?username=Ahmad-Raza810&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
 
